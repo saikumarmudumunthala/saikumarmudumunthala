@@ -52,7 +52,7 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 
 <details>	
   <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <!--<summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11</li>
 	    <li><b>Laptop: </b> HP Probook 440 G8 (i5)</li>
@@ -61,7 +61,7 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
-</details>
+</details>--->
 
 #
 
