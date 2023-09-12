@@ -1,20 +1,20 @@
-## Hey there, I'm **[Sai Kumar](https://www.linkedin.com/in/shivam-r-pathak/)** :wave:
+## Hey there, I'm **[Sai Kumar](https://www.linkedin.com/in/sai-kumar-37bb4720a/)** :wave:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-r-pathak/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shivam-pathak.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_shiivam_)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_.shiivam._/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kumar-37bb4720a/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://saikumarmudumunthala.github.io/Personal-portfolio/)
+<!---[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_shiivam_)--->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sai.kumar1737/)
 
-I'm a graduate in Computer Science 🎓 from Gujarat Technological University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam[Telangana] 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into FrontEnd Development 🕸️ 🤓.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Angular, React, Nodejs, Express, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Shivam-Pathak).
+<!--- 🛠 &nbsp; I’m currently working with Angular, React, Nodejs, Express, <br /> Graphql, Mongodb, Javascript, etc.--->
+<!--- 🚀 &nbsp; I’m currently learning Full Stack Development.--->
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saikumarmudumunthala?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Shivam-Pathak/Shivam-Pathak/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: shivampathak848@gmail.com.
+- 📫 &nbsp; How to reach me: mudumunthalasaikumar04@gmail.com.
 
 ### My Absolute Favorites:
 
@@ -22,18 +22,18 @@ I'm a graduate in Computer Science 🎓 from Gujarat Technological University �
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-**Have a look on my [portfolio](https://Shivam-Pathak.github.io/) .**
+**Have a look on my [portfolio](https://saikumarmudumunthala.github.io/Personal-portfolio/) .**
 
 
 ### :gear: My skills include:
 
-- **Languages**: `C++`,`C`, `java`, `Python`
+- **Languages**:  `Python`
 
-- **Web Technologies**: `javaScript`,`Angular`,`React`,`Html`,`Css`,`TypeScript`
+- **Web Technologies**: `javaScript`,`Html`,`Css`,`Bootstrap`
 
 - **Database Technologies**: `MySQL`,`PostgreSQL`
 
-- **CS Core**: `Data Structures`,`Algorithms`, `DBMS` , `Operating System` , `OOP`
+- **CS Core**:  `DBMS` , `Operating System` , `OOP`
 
 ### Projects and Dev Stuffs:
 
