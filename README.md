@@ -33,7 +33,7 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 
 - **Web Technologies**: `javaScript`,`Html`,`Css`,`Bootstrap`
 
-- **Database Technologies**: `MySQL`,`PostgreSQL`
+<!--- **Database Technologies**: `MySQL`,`PostgreSQL`--->
 
 - **CS Core**:  `DBMS` , `Operating System` , `OOP`
 
