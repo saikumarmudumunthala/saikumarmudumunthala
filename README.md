@@ -65,7 +65,7 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 
 #
 
-<div align="center">
+<!--<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
