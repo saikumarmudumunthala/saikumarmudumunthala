@@ -37,7 +37,7 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 
 - **CS Core**:  `DBMS` , `Operating System` , `OOP`
 
-### Projects and Dev Stuffs:
+<!---### Projects and Dev Stuffs:
 
 | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivam-Pathak&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="Shivam's github stats" /></a> | <a href="https://github.com/Shivam-Pathak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Pathak&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -69,4 +69,4 @@ I'm a graduate in Computer Science 🎓 from Vijaya Engineering College, Khammam
 
 ### Show some ❤️ by starring some of the repositories!
 
-</div>
+</div>--->
